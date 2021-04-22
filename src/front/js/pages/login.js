@@ -57,7 +57,7 @@ export const Login = () => {
 							</Link>
 						</FormGroup>
 						<FormGroup className="mx-sm-4 pb-3">
-							<Link to="/home">
+							<Link to="/">
 								<Button
 									className="btn btn-block signin"
 									onClick={() => {
