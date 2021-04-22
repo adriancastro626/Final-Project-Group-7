@@ -6,6 +6,8 @@
 !.github
 php_errorlog
 .log
+.package.json
+.package-lock.json
 
 # do not ignore gitpod files
 !.gitpod.Dockerfile
